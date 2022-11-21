@@ -1,1 +1,3 @@
 Arquivo texto 2
+
+Mais info para corrigir um bug
